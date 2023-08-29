@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Welcome to my GitHub Profil.
+I´m pretty new here.
+I just started a Web Development Bootcamp and are very excited. :)
+
 <!--
 **IrisEnyo/IrisEnyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
